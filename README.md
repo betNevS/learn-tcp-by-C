@@ -1,2 +1,2 @@
-# learn-tcp-by-c
-the code example of learning tcp
+# learn-tcp-by-C
+the code example(by C) of learning tcp
